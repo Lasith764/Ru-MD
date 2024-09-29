@@ -1,0 +1,19 @@
+{
+  "name": "ruwntha md",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot that can download songs and videos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.17.2",
+    "qrcode-terminal": "^0.12.0",
+    "ytdl-core": "^4.9.2",
+    "axios": "^0.27.2",
+    "ffmpeg-static": "^4.4.0",
+    "fluent-ffmpeg": "^2.1.2"
+  },
+  "author": "ruwantha",
+  "license": "MIT"
+}
